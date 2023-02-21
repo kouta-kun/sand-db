@@ -1,0 +1,6 @@
+SandDbServer/.idea
+SandDbServer/bin
+SandDbServer/obj
+sanddbtestgame/.idea
+sanddbtestgame/code/obj
+SandDbServer/file*.db
